@@ -48,6 +48,9 @@ plt.show()
 output:
 <img width="884" height="628" alt="Screenshot 2025-10-08 085710" src="https://github.com/user-attachments/assets/574e5848-8db3-4255-b905-08bca1db7131" />
 
+Table:
+![WhatsApp Image 2025-10-25 at 14 37 23_41ea11ab](https://github.com/user-attachments/assets/3feb1c25-d7a0-4ced-9e6c-4679375cefce)
+
 Result
 
 The message signal, carrier signal, and DSBSC signal will be displayed in separate plots. Thus DSB-SC is implemented using numPy and Matplotlib.
